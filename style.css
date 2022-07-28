@@ -4,6 +4,6 @@
 } */
 @media only screen and (max-width: 992px) {
     .company {
-        visibility: hidden;
+        visibility: collapse;
     }
 }
